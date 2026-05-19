@@ -1,4 +1,4 @@
-# ⛪ Aplikasi Gereja Laravel 12
+# ⛪ Proses Design Aplikasi Gereja Laravel 12
 <img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/ae624ac0-859b-4c76-9c55-c0ece7d370fe" />
 
 
